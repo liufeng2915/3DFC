@@ -8,6 +8,6 @@ We propose a novel PointNet-based encoder-decoder framework that for the first t
 
 =======
 
-3D Face Modeling from Diverse Raw Scan Data. [paper](https://arxiv.org/abs/1902.04943) <br/>
+3D Face Modeling from Diverse Raw Scan Data. [arXiv](https://arxiv.org/abs/1902.04943) <br/>
 [Feng Liu](http://www.face3d.org/), [Luan Tran](http://www.cse.msu.edu/~tranluan/), [Xiaoming Liu](http://cvlab.cse.msu.edu/pages/people.html)<br/>
 Department of Computer Science and Engineering, Michigan State University.<br/>
